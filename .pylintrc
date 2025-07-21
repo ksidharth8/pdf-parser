@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+# Disable the missing-module-docstring warning.
+disable=C0114,missing-function-docstring,missing-module-docstring

@@ -1,0 +1,13 @@
+# Output files
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS or IDE specific
+.DS_Store
+*.log
